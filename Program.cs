@@ -6,7 +6,7 @@ namespace ARRAY_002
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Here Is A New Program");
                 //SORTING AND SEARCHING...
             
          /*int[] myArray = {13,27,41,67,99,83};
